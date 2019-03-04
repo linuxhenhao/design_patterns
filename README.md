@@ -8,7 +8,8 @@ All those are learning from derek's design_patterns video serials [youtube chann
     * may need dynamic change (not necessary)
 
     example:
-
+    
+    ```java
     class Test {
         private Strategy strategy;
         public Test(Strategy strategy) {
@@ -42,5 +43,5 @@ All those are learning from derek's design_patterns video serials [youtube chann
             return "Miao Miao";
         }
     }
-
+    ```
 
